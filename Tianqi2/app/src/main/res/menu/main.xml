@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/yesterday"
+        android:title="yesterday"/>
+    <item
+        android:id="@+id/today"
+        android:title="today"/>
+    <item
+        android:id="@+id/forecast1"
+        android:title="forecast1"/>
+    <item
+        android:id="@+id/forecast2"
+        android:title="forecast2"/>
+    <item
+        android:id="@+id/forecast3"
+        android:title="forecast3"/>
+    <item
+        android:id="@+id/forecast4"
+        android:title="forecast4"/>
+    <item
+        android:id="@+id/cancel_concern"
+        android:title="cancel_concern"/>
+</menu>
